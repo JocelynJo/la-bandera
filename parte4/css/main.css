@@ -1,0 +1,17 @@
+
+
+.box{
+	height: :100px;
+	width: 200px;
+	padding: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	display: inline;	
+}
+.amarilla{
+	background-color: yellow;
+}
+
+.roja{
+	background-color: red;
+}
